@@ -1,0 +1,1 @@
+C:\Users\mosta\Git\Win32\Release\idLib.lib

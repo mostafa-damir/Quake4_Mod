@@ -1,0 +1,93 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (../Win32/Release\) contains files shared from another project (idLib.vcxproj, MPGame.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (../Win32/Release\) contains files shared from another project (Game.vcxproj, MPGame.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Player.cpp
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(2075,2): warning C5205: delete of an abstract class 'rvAASTacticalSensor' that has a non-virtual destructor results in undefined behavior
+C:\Users\mosta\Git\Game-Mod-Q4\game\ai\AAS_tactical.h(23): message : see declaration of 'rvAASTacticalSensor'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(2722,12): warning C4458: declaration of 'skin' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.h(861,22): message : see declaration of 'idPlayer::skin'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(3456,26): warning C4458: declaration of 'hud' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.h(341,22): message : see declaration of 'idPlayer::hud'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(3457,28): warning C4458: declaration of 'mphud' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.h(342,21): message : see declaration of 'idPlayer::mphud'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(3458,29): warning C4458: declaration of 'cursor' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.h(922,21): message : see declaration of 'idPlayer::cursor'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(3620,29): warning C4458: declaration of 'cursor' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.h(922,21): message : see declaration of 'idPlayer::cursor'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(3931,62): warning C4458: declaration of 'weaponDef' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.h(338,27): message : see declaration of 'idPlayer::weaponDef'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(4249,17): warning C4458: declaration of 'weapon' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.h(335,17): message : see declaration of 'idPlayer::weapon'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(4627,64): warning C4458: declaration of 'team' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Actor.h(120,11): message : see declaration of 'idActor::team'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(4822,25): warning C4458: declaration of 'hud' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.h(341,22): message : see declaration of 'idPlayer::hud'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(4935,3): warning C4456: declaration of 'i' hides previous local declaration
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(4818,6): message : see declaration of 'i'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(5078,55): warning C4458: declaration of 'weapon' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.h(335,17): message : see declaration of 'idPlayer::weapon'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(5291,57): warning C4458: declaration of 'name' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Entity.h(124,12): message : see declaration of 'idEntity::name'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(5308,56): warning C4458: declaration of 'name' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Entity.h(124,12): message : see declaration of 'idEntity::name'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(6686,17): warning C4456: declaration of 'end' hides previous local declaration
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(6632,12): message : see declaration of 'end'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(9671,31): warning C4458: declaration of 'weapon' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.h(335,17): message : see declaration of 'idPlayer::weapon'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(9963,82): warning C4458: declaration of 'damageScale' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Actor.h(277,18): message : see declaration of 'idActor::damageScale'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(9963,82): warning C4458: declaration of 'health' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Entity.h(137,11): message : see declaration of 'idEntity::health'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(10063,76): warning C4458: declaration of 'damageScale' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Actor.h(277,18): message : see declaration of 'idActor::damageScale'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(10206,24): warning C4457: declaration of 'attacker' hides function parameter
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(10062,55): message : see declaration of 'attacker'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(10472,31): warning C4458: declaration of 'weapon' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.h(335,17): message : see declaration of 'idPlayer::weapon'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(10605,27): warning C4458: declaration of 'viewAxis' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Actor.h(123,13): message : see declaration of 'idActor::viewAxis'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(11117,18): warning C4458: declaration of 'viewAxis' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Actor.h(123,13): message : see declaration of 'idActor::viewAxis'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(11235,29): warning C4458: declaration of 'cursor' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.h(922,21): message : see declaration of 'idPlayer::cursor'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(11602,31): warning C4458: declaration of 'weapon' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.h(335,17): message : see declaration of 'idPlayer::weapon'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(11655,31): warning C4458: declaration of 'weapon' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.h(335,17): message : see declaration of 'idPlayer::weapon'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(12408,28): warning C4458: declaration of 'arena' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.h(962,11): message : see declaration of 'idPlayer::arena'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(12699,17): warning C4458: declaration of 'team' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Actor.h(120,11): message : see declaration of 'idActor::team'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(12996,14): warning C4458: declaration of 'weapon' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.h(335,17): message : see declaration of 'idPlayer::weapon'
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(13019,21): warning C4458: declaration of 'types' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\game\gamesys\Class.h(409,30): message : see declaration of 'idClass::types'
+C:\Users\mosta\Git\Game-Mod-Q4\idlib\math\Interpolate.h(68,135): warning C4458: declaration of 'startTime' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\idlib\math\Interpolate.h(42,11): message : see declaration of 'idInterpolate<float>::startTime'
+C:\Users\mosta\Git\Game-Mod-Q4\idlib\math\Interpolate.h(68): message : while compiling class template member function 'void idInterpolate<float>::Init(const float,const float,const type &,const type &)'
+          with
+          [
+              type=float
+          ]
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(1203): message : see reference to function template instantiation 'void idInterpolate<float>::Init(const float,const float,const type &,const type &)' being compiled
+          with
+          [
+              type=float
+          ]
+C:\Users\mosta\Git\Game-Mod-Q4\idlib\math\Interpolate.h(68,135): warning C4458: declaration of 'duration' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\idlib\math\Interpolate.h(43,11): message : see declaration of 'idInterpolate<float>::duration'
+C:\Users\mosta\Git\Game-Mod-Q4\idlib\math\Interpolate.h(68,135): warning C4458: declaration of 'startValue' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\idlib\math\Interpolate.h(44,10): message : see declaration of 'idInterpolate<float>::startValue'
+C:\Users\mosta\Git\Game-Mod-Q4\idlib\math\Interpolate.h(68,135): warning C4458: declaration of 'endValue' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\idlib\math\Interpolate.h(45,10): message : see declaration of 'idInterpolate<float>::endValue'
+C:\Users\mosta\Git\Game-Mod-Q4\idlib\math\Interpolate.h(108,91): warning C4458: declaration of 'startTime' hides class member
+C:\Users\mosta\Git\Game-Mod-Q4\idlib\math\Interpolate.h(42,11): message : see declaration of 'idInterpolate<idVec3>::startTime'
+C:\Users\mosta\Git\Game-Mod-Q4\idlib\math\Interpolate.h(108): message : while compiling class template member function 'type idInterpolate<type>::GetDeltaValue(float,float) const'
+          with
+          [
+              type=idVec3
+          ]
+C:\Users\mosta\Git\Game-Mod-Q4\game\Player.cpp(2234): message : see reference to class template instantiation 'idInterpolate<idVec3>' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1391,5): warning MSB8012: TargetPath(C:\Users\mosta\Git\Win32\Release\Game.dll) does not match the Linker's OutputFile property value (C:\Users\mosta\Git\Win32\Release\Gamex86.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1393,5): warning MSB8012: TargetName(Game) does not match the Linker's OutputFile property value (Gamex86). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library ..\Win32\Release\Gamex86.lib and object ..\Win32\Release\Gamex86.exp
+  game.vcxproj -> C:\Users\mosta\Git\Win32\Release\Game.dll
